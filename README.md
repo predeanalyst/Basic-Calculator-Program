@@ -10,7 +10,7 @@ This is a simple Python program that functions as a basic calculator. It asks th
 
 ## How to Use
 
-1. Run the Python script `basic_calculator.py` (or your Python environment).  
+1. Run the Python script `simple_calculator.py` (or your Python environment).  
 2. Input the first number when prompted.  
 3. Input the second number when prompted.  
 4. Enter the operation symbol (`+`, `-`, `*`, or `/`).  
